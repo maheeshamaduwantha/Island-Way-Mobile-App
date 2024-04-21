@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427835003853",
+    "project_id": "island-way-db945",
+    "storage_bucket": "island-way-db945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427835003853:android:6655007ccbdf0eb5782a84",
+        "android_client_info": {
+          "package_name": "com.example.island_way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427835003853-5jubdj39fmh4atl5mr7u1gradfhtoone.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlsTM77d0d3fNvjEwEoFH_tjgEYskFZps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427835003853-5jubdj39fmh4atl5mr7u1gradfhtoone.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
